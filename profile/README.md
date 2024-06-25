@@ -1,4 +1,4 @@
-## NextGenium - indie game studio
+## NextGenium - indie gamedev studio
 
 <!--
 
